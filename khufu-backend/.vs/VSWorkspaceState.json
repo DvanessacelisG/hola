@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\KhufuServer",
+    "\\src\\KhufuServer\\WorkforcePlanning",
+    "\\src\\KhufuServer\\WorkforcePlanning\\Adapters",
+    "\\src\\KhufuServer\\WorkforcePlanning\\Controllers",
+    "\\src\\KhufuServer\\WorkforcePlanning\\Entities"
+  ],
+  "PreviewInSolutionExplorer": false
+}

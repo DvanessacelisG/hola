@@ -1,0 +1,4 @@
+tests/**
+src/KhufuServer/obj/**
+src/KhufuServer/bin/**
+buildtests.sh
